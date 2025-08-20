@@ -1,3 +1,3 @@
-##CI/CD Dockers
+CI/CD Dockers
 
-##Triggers gitactions pipeline.
+Triggers gitactions pipeline.
